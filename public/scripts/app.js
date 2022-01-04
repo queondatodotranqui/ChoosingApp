@@ -93,10 +93,7 @@ var ChoosingApp = function (_React$Component) {
 
             return React.createElement(
                 'div',
-                { className: 'container-fluid contenedor', style: {
-                        backgroundImage: 'url(/img/backgroundImage-min.jpg)',
-                        backgroundSize: 'cover'
-                    } },
+                { className: 'container-fluid contenedor' },
                 React.createElement(Header, null),
                 React.createElement(
                     'div',

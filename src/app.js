@@ -59,10 +59,7 @@ class ChoosingApp extends React.Component{
         const { options } = this.state
 
         return(
-            <div className="container-fluid contenedor" style={{
-                backgroundImage: `url(/img/backgroundImage-min.jpg)`,
-                backgroundSize:'cover'
-            }}>
+            <div className="container-fluid contenedor">
                 <Header />
                 <div className="box">
                     <Action 

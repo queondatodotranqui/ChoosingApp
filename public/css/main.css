@@ -33,6 +33,8 @@
     display: flex;
     flex-direction: column;
     background-color:rgb(240, 240, 240);
+    background-image:url(/img/backgroundImage-min.jpg);
+    background-size:cover;
 }
 
 .options{
